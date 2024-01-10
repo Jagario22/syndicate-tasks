@@ -1,0 +1,8 @@
+account_id: '196241772369'
+aws_access_key_id: ASIAS3MHLZ5IYZIJFWBE
+aws_secret_access_key: /30zuUHGSHel/nkW/j/d5aWtCPbcWDHog6a89a52
+deploy_target_bucket: syndicate-artefacts-196241772369-eucentral1
+extended_prefix_mode: false
+project_path: D:\syndicate-tasks\task01\cmtr-bbc9a984-hello_world_lambda-test
+region: eu-central-1
+use_temp_creds: false
